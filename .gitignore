@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+.vscode/
+.idea/
+
+# Dungeon Organizer specific
+_DungeonOutput/
+_Sorted/
+dungeon_data.json
+plan_changes.json
+changes.json
+undo.ps1
+index.html

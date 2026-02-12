@@ -1,0 +1,21 @@
+[project]
+name = "dungeon-organizer"
+version = "0.1.0"
+description = "A powerful file organization tool with a premium, game-themed dashboard using MCP."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Raven Butial" }
+]
+license = { text = "MIT" }
+dependencies = [
+    "mcp[fastmcp]",
+    "send2trash",
+]
+
+[project.scripts]
+dungeon-organizer = "dungeon_server:mcp.run"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
