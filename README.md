@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![MCP](https://img.shields.io/badge/MCP-Protocol-orange.svg)](https://modelcontextprotocol.io)
 
-![Dungeon Organizer Dashboard](dashboard_preview.png)
+![DungeonOrganizer UI](dashboard_preview.png)
 
 ---
 
