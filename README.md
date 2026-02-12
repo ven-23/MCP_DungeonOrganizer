@@ -111,5 +111,3 @@ Identifies important files containing keywords like: `invoice`, `resume`, `cv`, 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-Designed with ❤️ for messy folders.
